@@ -22,12 +22,7 @@ The Racoon Detection project focuses on using object detection techniques to ide
 Dataset include 200 images files belonging to 2 classes(Racoon or not).
 
 ## Getting Started
-The list of Species is as follows:
-
-    Black-grass ,Charlock Cleavers, Common Chickweed ,Common wheat ,Fat Hen, Loose Silky-bent ,Maize, Scentless Mayweed, Shepherds Purse, Small-flowered Cranesbill ,Sugar beet
-
-This is an plant seedling classification.I used transfer learning to classify images. The goal is to develop a model that can give more accuracy on the different species of plant.
-
+The goal of this project is to create a reliable and accurate raccoon detection system using state-of-the-art object detection techniques. The system will be able to process input images and identify the presence of raccoons by drawing bounding boxes around them.
 
 
 ## License
